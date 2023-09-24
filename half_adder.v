@@ -5,7 +5,7 @@ timescale 1ns / 1ps
 // 
 // Create Date: 08/07/2023 09:21:53 AM
 // Design Name: 
-// Module Name: jk_ff_tb
+// Module Name: half_adder
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
